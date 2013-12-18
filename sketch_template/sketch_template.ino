@@ -6,6 +6,8 @@
 * Tag: Arduino, Piezzo Speakers
 */
 
+// Streak must not end
+
 //SPEAKER (PWM pin)
 int speakerPin = 11;
 //LED (Use pin 13 for built-in LED)

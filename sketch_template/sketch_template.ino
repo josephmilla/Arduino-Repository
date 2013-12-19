@@ -8,6 +8,7 @@
 
 // Streak must not end
 // Hola
+// Ohay!
 
 //SPEAKER (PWM pin)
 int speakerPin = 11;

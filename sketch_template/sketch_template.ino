@@ -10,6 +10,7 @@
 // Hola
 // Ohay!
 // Hoohaa!
+// Start of Winter Break
 
 //SPEAKER (PWM pin)
 int speakerPin = 11;

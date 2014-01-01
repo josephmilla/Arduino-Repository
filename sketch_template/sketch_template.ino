@@ -6,6 +6,8 @@
 * Tag: Arduino, Piezzo Speakers
 */
 
+// Happy New Year
+
 //SPEAKER (PWM pin)
 int speakerPin = 11;
 //LED (Use pin 13 for built-in LED)
